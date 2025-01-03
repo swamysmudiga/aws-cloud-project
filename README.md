@@ -13,7 +13,7 @@ This repository contains the source code for a cloud-based backend web applicati
 ## 2. **Terraform-AWS-Infrastructure as Code**
 This repository provides the Terraform configuration to set up an **AWS Virtual Private Cloud (VPC)**. It helps automate infrastructure provisioning, leveraging Terraform to create and manage AWS resources.
 
-- **Technologies**: Terraform, AWS CLI.
+- **Technologies**: Terraform, AWS CLI, AWS VPC, Public Subnets, Private Subnets, AWS EC2, Packer, AMI, AWS RDS, AWS S3, Route53, Bash, AWS KMS, SecretManager
 - **Repository**: [Terraform-AWS-Infrastructure](https://github.com/swamysmudiga/terraform-aws-infra)
 
 ---
